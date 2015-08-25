@@ -1,7 +1,7 @@
 This is Jack's File
 
-<<<<<<< HEAD
+
 In the mean time, Jack Adds this.
-=======
+
 Oh cool ... Jill added this
->>>>>>> 5e9cdd7d3eec07dac821604f98f07a931a1d10d5
+
